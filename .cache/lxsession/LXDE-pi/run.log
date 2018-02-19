@@ -1,0 +1,154 @@
+** Message: environement.vala:58: Exporting primary_variable
+** Message: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:218: custom_data :
+** Message: environement.vala:219: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:540: 키 파일에 있는 'GTK' 그룹의 'iGtk/ColorScheme' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'windows_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'panel/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'dock/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'file_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'desktop_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'launcher_manager/autostart' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'composite_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'im1/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'im2/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'widget1/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'notification/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'keybindings/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'im_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'screensaver/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'power_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'audio_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'workspace_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'screenshot_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'message_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'upgrade_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'updates_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'updates_manager/timeout' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'crash_manager/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'crash_manager/dev_mode' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'crash_manager/timeout' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'upstart_user_session' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'proxy_manager/http' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'a11y/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'xrandr/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'network_gui/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'webbrowser/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'email/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'pdf_reader/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'video_player/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'audio_player/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'images_display/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'text_editor/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'archive/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'charmap/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'calculator/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'spreadsheet/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'bittorent/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'document/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'webcam/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'burn/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'notes/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'disk_utility/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Session' 그룹의 'tasks/command' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 'Keymap' 그룹이 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'State' 그룹의 'laptop_mode' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Dbus' 그룹의 'gnome' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Environment' 그룹의 'type' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Environment' 그룹의 'ubuntu_menuproxy' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Environment' 그룹의 'toolkit_integration' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Environment' 그룹의 'gtk/overlay_scrollbar_disable' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Environment' 그룹의 'qt/force_theme' 키가 없습니다
+** Message: settings.vala:540: 키 파일에 있는 'Environment' 그룹의 'qt/platform' 키가 없습니다
+** Message: settings.vala:462: Monitoring: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: environement.vala:79: Exporting variable
+** Message: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:177: custom_config :
+** Message: environement.vala:178: config_dirs :/etc/xdg
+** Message: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:218: custom_data :
+** Message: environement.vala:219: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: environement.vala:254: No entry in [Environment_variable]. 키 파일에 'Environment_variable' 그룹이 없습니다
+** Message: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: options.vala:164: Activate xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: app.vala:721: polkit separate
+** Message: app.vala:721: polkit separate
+** Message: app.vala:76: Launching lxpolkit 
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: autostart.vala:42: Autostart path : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: app.vala:76: Launching lxpanel 
+** Message: app.vala:76: Launching pcmanfm 
+
+** (lxsession:557): WARNING **: app.vala:86: 하위 프로세스 "xscreensaver"을(를) 실행하기 실패(그런 파일이나 디렉터리가 없습니다)
+
+** (lxsession:557): WARNING **: app.vala:87: Error when launching xscreensaver
+** Message: app.vala:76: Launching point-rpi 
+** Message: options.vala:107: Create build-in Clipboard
+** Message: main.vala:442: Check keymap_mode (null)
+** Message: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-3qqDZxBkZIZy/agent.675; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=679; export SSH_AGENT_PID;
+echo Agent pid 679;
+** Message: app.vala:130: point-rpi exit with this type of exit: 0
+** Message: app.vala:139: Exit normal, don't reload
+** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+Obt-Message: Failed to open an Input Method
+Obt-Message: Failed to open an Input Method
+** Message: Connecting ...
+** Message: Status changed to down
+
+** (lxpanel:667): CRITICAL **: dhcpcd_open: 자원이 일시적으로 사용 불가능함
+
+** (zenity:683): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+** (lxpanel:667): WARNING **: Battery 0 not found
+
+** (lxpanel:667): WARNING **: lxpanel: can't load ptbatt plugin
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.11.5
+** Message: Status changed to connected
+** Message: wlan1: Associated with Robotcode
+** Message: wlan1: Configured 192.168.168.78/24
+** Message: eth0: Link is down
+** Message: wlan0: Not associated
+** Message: wlan1: WPA status connected
+** Message: wlan1: Received scan results
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+** Message: wlan0: WPA status down
+** Message: wlan0: WPA status down
+** Message: bt: Name org.bluez unowned on DBus
+** Message: va: Name org.bluez unowned on DBus
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
+** Message: wlan1: Received scan results
